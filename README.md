@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/rene5547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rene5547" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8yEqnY-fIID6QG0hVnxHXg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rene5547" height="30" width="40" /></a>
 <a href="https://discord.gg/mcN25FJ33K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mcN25FJ33K" height="30" width="40" /></a>
 </p>
 
