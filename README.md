@@ -11,7 +11,7 @@
 
 - 📝 My documentation site [docs.zrxnx.at](docs.zrxnx.at)
 
-- 💰 Donation site [24fire]([docs.zrxnx.at](https://24fi.re/d/ILGqd9ho))
+- 💰 Donation site [24fire](https://24fi.re/d/ILGqd9ho)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
