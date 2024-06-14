@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C & HTML**
 
-- 👨‍💻 All of my projects are available at [zRxnx](https://github.com/zRxnx)
+- 👨‍💻 All of my projects are available at [zRxnx](https://github.com/zRxnx?tab=repositories)
 
 - 📝 My documentation site [Docs](https://docs.zrxnx.at)
 
